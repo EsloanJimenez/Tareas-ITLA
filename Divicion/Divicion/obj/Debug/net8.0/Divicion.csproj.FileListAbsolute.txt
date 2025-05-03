@@ -1,0 +1,14 @@
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\bin\Debug\net8.0\Divicion.exe
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\bin\Debug\net8.0\Divicion.deps.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\bin\Debug\net8.0\Divicion.runtimeconfig.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\bin\Debug\net8.0\Divicion.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\bin\Debug\net8.0\Divicion.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\obj\Debug\net8.0\Divicion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\obj\Debug\net8.0\Divicion.AssemblyInfoInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\obj\Debug\net8.0\Divicion.AssemblyInfo.cs
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\obj\Debug\net8.0\Divicion.csproj.CoreCompileInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\obj\Debug\net8.0\Divicion.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\obj\Debug\net8.0\refint\Divicion.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\obj\Debug\net8.0\Divicion.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\obj\Debug\net8.0\Divicion.genruntimeconfig.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Divicion\Divicion\obj\Debug\net8.0\ref\Divicion.dll

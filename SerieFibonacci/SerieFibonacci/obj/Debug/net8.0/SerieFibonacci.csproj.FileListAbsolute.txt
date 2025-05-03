@@ -1,0 +1,14 @@
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\bin\Debug\net8.0\SerieFibonacci.exe
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\bin\Debug\net8.0\SerieFibonacci.deps.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\bin\Debug\net8.0\SerieFibonacci.runtimeconfig.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\bin\Debug\net8.0\SerieFibonacci.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\bin\Debug\net8.0\SerieFibonacci.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\obj\Debug\net8.0\SerieFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\obj\Debug\net8.0\SerieFibonacci.AssemblyInfoInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\obj\Debug\net8.0\SerieFibonacci.AssemblyInfo.cs
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\obj\Debug\net8.0\SerieFibonacci.csproj.CoreCompileInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\obj\Debug\net8.0\SerieFibonacci.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\obj\Debug\net8.0\refint\SerieFibonacci.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\obj\Debug\net8.0\SerieFibonacci.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\obj\Debug\net8.0\SerieFibonacci.genruntimeconfig.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\SerieFibonacci\SerieFibonacci\obj\Debug\net8.0\ref\SerieFibonacci.dll

@@ -1,0 +1,14 @@
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.exe
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.deps.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.runtimeconfig.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.AssemblyInfoInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.AssemblyInfo.cs
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.csproj.CoreCompileInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\obj\Debug\net8.0\refint\NumerosImpares.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.genruntimeconfig.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosImpares\NumerosImpares\obj\Debug\net8.0\ref\NumerosImpares.dll

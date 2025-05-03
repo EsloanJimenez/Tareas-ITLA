@@ -1,0 +1,14 @@
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\bin\Debug\net8.0\Multiplicacion por el usuario.exe
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\bin\Debug\net8.0\Multiplicacion por el usuario.deps.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\bin\Debug\net8.0\Multiplicacion por el usuario.runtimeconfig.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\bin\Debug\net8.0\Multiplicacion por el usuario.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\bin\Debug\net8.0\Multiplicacion por el usuario.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\obj\Debug\net8.0\Multiplicacion por el usuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\obj\Debug\net8.0\Multiplicacion por el usuario.AssemblyInfoInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\obj\Debug\net8.0\Multiplicacion por el usuario.AssemblyInfo.cs
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\obj\Debug\net8.0\Multiplicacion por el usuario.csproj.CoreCompileInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\obj\Debug\net8.0\Multiplicacion por el usuario.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\obj\Debug\net8.0\refint\Multiplicacion por el usuario.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\obj\Debug\net8.0\Multiplicacion por el usuario.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\obj\Debug\net8.0\Multiplicacion por el usuario.genruntimeconfig.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Multiplicacion por el usuario\Multiplicacion por el usuario\obj\Debug\net8.0\ref\Multiplicacion por el usuario.dll
