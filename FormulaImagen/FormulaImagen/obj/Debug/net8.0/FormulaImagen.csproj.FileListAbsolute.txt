@@ -1,0 +1,15 @@
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\bin\Debug\net8.0\FormulaImagen.exe
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\bin\Debug\net8.0\FormulaImagen.deps.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\bin\Debug\net8.0\FormulaImagen.runtimeconfig.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\bin\Debug\net8.0\FormulaImagen.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\bin\Debug\net8.0\FormulaImagen.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\obj\Debug\net8.0\FormulaImagen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\obj\Debug\net8.0\FormulaImagen.AssemblyInfoInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\obj\Debug\net8.0\FormulaImagen.AssemblyInfo.cs
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\obj\Debug\net8.0\FormulaImagen.csproj.CoreCompileInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\obj\Debug\net8.0\FormulaImagen.sourcelink.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\obj\Debug\net8.0\FormulaImagen.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\obj\Debug\net8.0\refint\FormulaImagen.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\obj\Debug\net8.0\FormulaImagen.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\obj\Debug\net8.0\FormulaImagen.genruntimeconfig.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FormulaImagen\FormulaImagen\obj\Debug\net8.0\ref\FormulaImagen.dll
