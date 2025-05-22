@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\NumerosOrdenados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7616BF29-378F-4074-96BA-9A55C86E7F80}|NumerosOrdenados\\NumerosOrdenados.csproj|d:\\cursos\\c# basico itsc\\programas\\numerosordenados\\numerosordenados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7616BF29-378F-4074-96BA-9A55C86E7F80}|NumerosOrdenados\\NumerosOrdenados.csproj|solutionrelative:numerosordenados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1004,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\NumerosOrdenados\\NumerosOrdenados\\Program.cs",
+              "RelativeDocumentMoniker": "NumerosOrdenados\\Program.cs",
+              "ToolTip": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\NumerosOrdenados\\NumerosOrdenados\\Program.cs",
+              "RelativeToolTip": "NumerosOrdenados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:35:05.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

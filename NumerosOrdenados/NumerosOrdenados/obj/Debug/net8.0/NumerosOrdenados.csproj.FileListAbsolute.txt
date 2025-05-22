@@ -1,0 +1,15 @@
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\bin\Debug\net8.0\NumerosOrdenados.exe
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\bin\Debug\net8.0\NumerosOrdenados.deps.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\bin\Debug\net8.0\NumerosOrdenados.runtimeconfig.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\bin\Debug\net8.0\NumerosOrdenados.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\bin\Debug\net8.0\NumerosOrdenados.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\obj\Debug\net8.0\NumerosOrdenados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\obj\Debug\net8.0\NumerosOrdenados.AssemblyInfoInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\obj\Debug\net8.0\NumerosOrdenados.AssemblyInfo.cs
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\obj\Debug\net8.0\NumerosOrdenados.csproj.CoreCompileInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\obj\Debug\net8.0\NumerosOrdenados.sourcelink.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\obj\Debug\net8.0\NumerosOrdenados.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\obj\Debug\net8.0\refint\NumerosOrdenados.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\obj\Debug\net8.0\NumerosOrdenados.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\obj\Debug\net8.0\NumerosOrdenados.genruntimeconfig.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\NumerosOrdenados\NumerosOrdenados\obj\Debug\net8.0\ref\NumerosOrdenados.dll
