@@ -1,0 +1,15 @@
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\bin\Debug\net8.0\CualEsSuNombre.exe
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\bin\Debug\net8.0\CualEsSuNombre.deps.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\bin\Debug\net8.0\CualEsSuNombre.runtimeconfig.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\bin\Debug\net8.0\CualEsSuNombre.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\bin\Debug\net8.0\CualEsSuNombre.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\obj\Debug\net8.0\CualEsSuNombre.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\obj\Debug\net8.0\CualEsSuNombre.AssemblyInfoInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\obj\Debug\net8.0\CualEsSuNombre.AssemblyInfo.cs
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\obj\Debug\net8.0\CualEsSuNombre.csproj.CoreCompileInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\obj\Debug\net8.0\CualEsSuNombre.sourcelink.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\obj\Debug\net8.0\CualEsSuNombre.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\obj\Debug\net8.0\refint\CualEsSuNombre.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\obj\Debug\net8.0\CualEsSuNombre.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\obj\Debug\net8.0\CualEsSuNombre.genruntimeconfig.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CualEsSuNombre\CualEsSuNombre\obj\Debug\net8.0\ref\CualEsSuNombre.dll
