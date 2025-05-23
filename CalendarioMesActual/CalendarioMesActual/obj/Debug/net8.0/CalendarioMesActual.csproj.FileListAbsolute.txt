@@ -1,0 +1,15 @@
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\bin\Debug\net8.0\CalendarioMesActual.exe
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\bin\Debug\net8.0\CalendarioMesActual.deps.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\bin\Debug\net8.0\CalendarioMesActual.runtimeconfig.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\bin\Debug\net8.0\CalendarioMesActual.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\bin\Debug\net8.0\CalendarioMesActual.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\obj\Debug\net8.0\CalendarioMesActual.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\obj\Debug\net8.0\CalendarioMesActual.AssemblyInfoInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\obj\Debug\net8.0\CalendarioMesActual.AssemblyInfo.cs
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\obj\Debug\net8.0\CalendarioMesActual.csproj.CoreCompileInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\obj\Debug\net8.0\CalendarioMesActual.sourcelink.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\obj\Debug\net8.0\CalendarioMesActual.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\obj\Debug\net8.0\refint\CalendarioMesActual.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\obj\Debug\net8.0\CalendarioMesActual.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\obj\Debug\net8.0\CalendarioMesActual.genruntimeconfig.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\CalendarioMesActual\CalendarioMesActual\obj\Debug\net8.0\ref\CalendarioMesActual.dll
