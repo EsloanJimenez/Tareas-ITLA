@@ -1,0 +1,15 @@
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\bin\Debug\net8.0\FechaNacimiento.exe
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\bin\Debug\net8.0\FechaNacimiento.deps.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\bin\Debug\net8.0\FechaNacimiento.runtimeconfig.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\bin\Debug\net8.0\FechaNacimiento.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\bin\Debug\net8.0\FechaNacimiento.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\obj\Debug\net8.0\FechaNacimiento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\obj\Debug\net8.0\FechaNacimiento.AssemblyInfoInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\obj\Debug\net8.0\FechaNacimiento.AssemblyInfo.cs
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\obj\Debug\net8.0\FechaNacimiento.csproj.CoreCompileInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\obj\Debug\net8.0\FechaNacimiento.sourcelink.json
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\obj\Debug\net8.0\FechaNacimiento.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\obj\Debug\net8.0\refint\FechaNacimiento.dll
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\obj\Debug\net8.0\FechaNacimiento.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\obj\Debug\net8.0\FechaNacimiento.genruntimeconfig.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\FechaNacimiento\FechaNacimiento\obj\Debug\net8.0\ref\FechaNacimiento.dll
