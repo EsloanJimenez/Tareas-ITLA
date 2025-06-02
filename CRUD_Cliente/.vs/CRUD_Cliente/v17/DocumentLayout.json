@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\CRUD_Cliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{942981B8-3499-433C-9B5D-F3EC97628B7C}|CRUD_Cliente\\CRUD_Cliente.csproj|d:\\cursos\\c# basico itsc\\programas\\crud_cliente\\crud_cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942981B8-3499-433C-9B5D-F3EC97628B7C}|CRUD_Cliente\\CRUD_Cliente.csproj|solutionrelative:crud_cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942981B8-3499-433C-9B5D-F3EC97628B7C}|CRUD_Cliente\\CRUD_Cliente.csproj|d:\\cursos\\c# basico itsc\\programas\\crud_cliente\\crud_cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{942981B8-3499-433C-9B5D-F3EC97628B7C}|CRUD_Cliente\\CRUD_Cliente.csproj|solutionrelative:crud_cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 828,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\CRUD_Cliente\\CRUD_Cliente\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUD_Cliente\\Form1.cs",
+              "ToolTip": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\CRUD_Cliente\\CRUD_Cliente\\Form1.cs",
+              "RelativeToolTip": "CRUD_Cliente\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:09:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\CRUD_Cliente\\CRUD_Cliente\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUD_Cliente\\Form1.cs",
+              "ToolTip": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\CRUD_Cliente\\CRUD_Cliente\\Form1.cs [Design]",
+              "RelativeToolTip": "CRUD_Cliente\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:07:54.555Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
