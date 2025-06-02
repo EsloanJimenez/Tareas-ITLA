@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\Calculadora_Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{386E041D-5B0B-4C5A-8453-0769C6F7EC01}|Calculadora_Form\\Calculadora_Form.csproj|d:\\cursos\\c# basico itsc\\programas\\calculadora_form\\calculadora_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386E041D-5B0B-4C5A-8453-0769C6F7EC01}|Calculadora_Form\\Calculadora_Form.csproj|solutionrelative:calculadora_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386E041D-5B0B-4C5A-8453-0769C6F7EC01}|Calculadora_Form\\Calculadora_Form.csproj|d:\\cursos\\c# basico itsc\\programas\\calculadora_form\\calculadora_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{386E041D-5B0B-4C5A-8453-0769C6F7EC01}|Calculadora_Form\\Calculadora_Form.csproj|solutionrelative:calculadora_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 828,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\Calculadora_Form\\Calculadora_Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora_Form\\Form1.cs",
+              "ToolTip": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\Calculadora_Form\\Calculadora_Form\\Form1.cs",
+              "RelativeToolTip": "Calculadora_Form\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:36:41.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\Calculadora_Form\\Calculadora_Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora_Form\\Form1.cs",
+              "ToolTip": "D:\\Cursos\\C# Basico ITSC\\PROGRAMAS\\Calculadora_Form\\Calculadora_Form\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculadora_Form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:13:38.24Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Calculadora_Form\Calculadora_Form\bin\Debug\Calculadora_Form.exe.config
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Calculadora_Form\Calculadora_Form\bin\Debug\Calculadora_Form.exe
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Calculadora_Form\Calculadora_Form\bin\Debug\Calculadora_Form.pdb
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Calculadora_Form\Calculadora_Form\obj\Debug\Calculadora_Form.csproj.AssemblyReference.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Calculadora_Form\Calculadora_Form\obj\Debug\Calculadora_Form.Form1.resources
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Calculadora_Form\Calculadora_Form\obj\Debug\Calculadora_Form.Properties.Resources.resources
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Calculadora_Form\Calculadora_Form\obj\Debug\Calculadora_Form.csproj.GenerateResource.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Calculadora_Form\Calculadora_Form\obj\Debug\Calculadora_Form.csproj.CoreCompileInputs.cache
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Calculadora_Form\Calculadora_Form\obj\Debug\Calculadora_Form.exe
+D:\Cursos\C# Basico ITSC\PROGRAMAS\Calculadora_Form\Calculadora_Form\obj\Debug\Calculadora_Form.pdb
